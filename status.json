@@ -3,5 +3,5 @@
   "message": "Bienvenue sur MedievalCraft !",
   "motd": "Le serveur est ouvert.",
   "locked": false,
-  "kickDelay": 30
+  "kickDelay": 5
 }

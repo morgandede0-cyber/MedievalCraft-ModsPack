@@ -2,5 +2,6 @@
   "defaultRam": 8,
   "allowOffline": false,
   "maintenanceKickDelay": 6,
-  "motd": "Bienvenue sur MedievalCraft !"
+  "motd": "Bienvenue sur MedievalCraft !",
+  "updatePollSec": 300
 }

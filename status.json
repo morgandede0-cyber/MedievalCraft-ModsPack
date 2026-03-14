@@ -1,7 +1,7 @@
 {
-  "maintenance": false,
+  "maintenance": true,
   "message": "Bienvenue sur MedievalCraft !",
   "motd": "Le serveur actuellement en maintenance.",
-  "locked": false,
+  "locked": true,
   "kickDelay": 5
 }
